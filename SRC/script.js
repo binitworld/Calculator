@@ -10,7 +10,6 @@ function calculate(){
     result.value=finalResult;
 }
 function clrs(){
-
     result.value="";
 }
 function del(){
